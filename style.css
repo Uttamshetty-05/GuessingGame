@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f9;
+    background-color: #000063;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-    background: white;
+    background: rgb(172, 158, 158);
     padding: 30px 40px;
     border-radius: 12px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #882a2a;
     margin-bottom: 5px;
 }
 
@@ -29,7 +29,7 @@ h1 {
 
 .game-area input {
     padding: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #676262;
     border-radius: 6px;
     width: 60%;
     margin-right: 10px;
@@ -46,7 +46,7 @@ h1 {
 }
 
 #checkButton {
-    background-color: #007bff;
+    background-color: #28619e;
     color: white;
 }
 
@@ -56,12 +56,12 @@ h1 {
 
 #resetButton {
     margin-top: 15px;
-    background-color: #28a745;
+    background-color: #32ba52;
     color: white;
 }
 
 #resetButton:hover {
-    background-color: #1e7e34;
+    background-color: #000000;
 }
 
 #message {
